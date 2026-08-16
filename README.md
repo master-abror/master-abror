@@ -2,8 +2,8 @@
 
 ### Backend Software Engineer · Go (Golang) · PostgreSQL · Distributed Systems
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/](https://github.com/master-abror))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-abror-124z26))
 
 > **Building reliable backend systems, scalable APIs, and practical software solutions.**
 
@@ -249,11 +249,11 @@ If you're looking for a **Remote Backend Engineer / Go Developer**, I'd be happy
 
 ### LinkedIn
 
-[Connect with me on LinkedIn](https://www.linkedin.com/)
+[Connect with me on LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-abror-124z26))
 
 ### GitHub
 
-[Explore my GitHub repositories](https://github.com/)
+[Explore my GitHub repositories]([https://github.com/](https://github.com/master-abror))
 
 ---
 
